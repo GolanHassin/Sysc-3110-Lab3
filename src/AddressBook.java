@@ -31,5 +31,6 @@ public class AddressBook {
 
         BuddyInfo bud = new BuddyInfo("Billy-Bob","321 Rawley Ave",230008932);
         addressBook.addBuddy(bud);
+        addressBook.addBuddy(buddy);
     }
 }
