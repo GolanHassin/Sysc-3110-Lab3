@@ -1,7 +1,7 @@
 import java.util.*;
+//This is the AddressBook Class
 public class AddressBook {
-
-
+    
     ArrayList<BuddyInfo> buddyInfo = new ArrayList<>();
 
     public void addBuddy(BuddyInfo buddy)
