@@ -17,5 +17,4 @@ public class BuddyInfo {
 
     private int phoneNum;
 
-
 }
